@@ -48,7 +48,7 @@ function setTitle() {
 }
 /**
  * @method
- * @desc monthNum mutator
+ * @desc reviewScore Mutator
  * @returns {null}
  */
 function reviewMovie() {
